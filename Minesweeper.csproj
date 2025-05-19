@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>ttt.ico</ApplicationIcon>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+    <ItemGroup>
+    <Content Include="ttt.ico">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    </ItemGroup>
+    
+    <PropertyGroup>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    </PropertyGroup>
+
+   <PropertyGroup>
+    <OutputPath>bin\$(Configuration)\$(TargetFramework)\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+    </PropertyGroup>
+
+<!-- <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+  <ItemGroup>
+    <DllFiles Include="$(OutputPath)*.dll" />
+  </ItemGroup>
+  <MakeDir Directories="$(OutputPath)Dlls" />
+  <Move SourceFiles="@(DllFiles)" DestinationFolder="$(OutputPath)Dlls" />
+  <Exec Command="mklink /D $(OutputPath)DllsLink $(OutputPath)Dlls" />
+</Target> -->
+
+</Project>

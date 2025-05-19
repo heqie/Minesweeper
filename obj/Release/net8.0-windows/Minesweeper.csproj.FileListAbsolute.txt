@@ -1,0 +1,14 @@
+E:\C#_test\Minesweeper\Minesweeper\bin\Release\net8.0-windows\Minesweeper.exe
+E:\C#_test\Minesweeper\Minesweeper\bin\Release\net8.0-windows\Minesweeper.deps.json
+E:\C#_test\Minesweeper\Minesweeper\bin\Release\net8.0-windows\Minesweeper.runtimeconfig.json
+E:\C#_test\Minesweeper\Minesweeper\bin\Release\net8.0-windows\Minesweeper.dll
+E:\C#_test\Minesweeper\Minesweeper\bin\Release\net8.0-windows\Minesweeper.pdb
+E:\C#_test\Minesweeper\Minesweeper\obj\Release\net8.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_test\Minesweeper\Minesweeper\obj\Release\net8.0-windows\Minesweeper.AssemblyInfoInputs.cache
+E:\C#_test\Minesweeper\Minesweeper\obj\Release\net8.0-windows\Minesweeper.AssemblyInfo.cs
+E:\C#_test\Minesweeper\Minesweeper\obj\Release\net8.0-windows\Minesweeper.csproj.CoreCompileInputs.cache
+E:\C#_test\Minesweeper\Minesweeper\obj\Release\net8.0-windows\Minesweeper.dll
+E:\C#_test\Minesweeper\Minesweeper\obj\Release\net8.0-windows\refint\Minesweeper.dll
+E:\C#_test\Minesweeper\Minesweeper\obj\Release\net8.0-windows\Minesweeper.pdb
+E:\C#_test\Minesweeper\Minesweeper\obj\Release\net8.0-windows\Minesweeper.genruntimeconfig.cache
+E:\C#_test\Minesweeper\Minesweeper\obj\Release\net8.0-windows\ref\Minesweeper.dll
